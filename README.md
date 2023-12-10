@@ -11,6 +11,3 @@ Some personal links:
 - [Custom ArtixLinux iso with many features](https://t.me/srobofactory/62)
 - Subscribe to my [Telegram Channel](https://t.me/srobofactory) to be aware of updates in my projects!
 - Also I'm the Head of Development in [Great Technological Syndicate](https://gmf.org.ua/)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Senderman&show_icons=true&count_private=true&theme=tokyonight">
