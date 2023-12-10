@@ -10,4 +10,4 @@ Some personal links:
 - Setup your Linux desktop environment using my [dotfiles](https://github.com/Senderman/dotfiles)
 - [Custom ArtixLinux iso with many features](https://t.me/srobofactory/62)
 - Subscribe to my [Telegram Channel](https://t.me/srobofactory) to be aware of updates in my projects!
-- Also I'm the Head of Development in [Great Technological Syndicate](https://gmf.org.ua/)
+- Also I'm the Head of Development in [Great Technological Syndicate](https://gts.org.ua/)
