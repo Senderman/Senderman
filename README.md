@@ -28,11 +28,10 @@ I'm trying to switch from one tech stack (e.g. dev) to another (e.g. admin), so 
 - 🤖 [Lastkatka Bot](https://github.com/Senderman/lastkatkabot) - useful bot for telegram with many random features. https://t.me/lastkatka_bot
 - 🎰 [Mini Roulette Bot](https://github.com/Senderman/mini-roulette-bot) - implementation of the Mini Roulette casino game https://t.me/miniroulette_bot
 - 🌻 [Telecrafter](https://github.com/Senderman/telecrafter) - Minecraft to Telegram bridge with many advanced features, like installing plugins, viewing logs and more
-- 📀 [HolyArtix](https://github.com/Senderman/holyartix) - Custom Artix Linux ISO build with DE included
+- 📀 [HolyArtix](https://github.com/Senderman/holyartix) - Custom Artix Linux ISO build with rescue tools and DE included
 
 ## 💬 Some Personal Links
 
 - Setup your Linux desktop environment using my [dotfiles](https://github.com/Senderman/dotfiles)
-- [Custom ArtixLinux iso with many features](https://t.me/srobofactory/62)
 - Subscribe to my [Telegram Channel](https://t.me/srobofactory) to be aware of updates in my projects!
 - Also I'm the Head of Development in [Gitops Tech Solutions](https://gts.org.ua/)
